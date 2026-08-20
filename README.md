@@ -47,9 +47,9 @@ asked. The description was written for the wrong phrasing. Say what you asked
 and what you expected, and it gets fixed — that feedback is more valuable than
 working around it.
 
-**What is actually built** is the Done section of [BACKLOG.md](BACKLOG.md).
-Everything under Queue is planned and does not exist yet. The daily loop builds
-one item a day; the table above is the intended shape, not the current state.
+**What is actually built** is listed under Contents below and in the Done
+section of [BACKLOG.md](BACKLOG.md). Everything under Queue is planned and does
+not exist yet.
 
 ## Layout
 
@@ -68,22 +68,21 @@ examples/
 
 See [BACKLOG.md](BACKLOG.md). The first unchecked item is the one being built.
 
-## Planned contents
+## Contents
 
-Nothing here is built yet. This table is the intended shape, and the daily loop
-fills it in one item at a time.
+| Skill | What it does |
+| --- | --- |
+| [deep-research](skills/deep-research) | Run a multi-source investigation with triangulation and an adversarial pass, when getting it wrong is expensive. |
+| [source-check](skills/source-check) | Verify citations in two passes: does the work exist, and does it say what it was cited for. |
 
-| # | Skill | What it does |
-| --- | --- | --- |
-| 001 | [two-pass-source-check](skills/two-pass-source-check) | The verification method: pass one asks whether each work exists as cited, pass two asks whether it says what the document claims, with page-level quotes. |
-| 002 | [literature-scan](skills/literature-scan) | Map a field: what the main positions are, who holds them, what each rests on, and where the genuine disagreements sit rather than the terminological ones. |
-| 003 | [evidence-table](skills/evidence-table) | Build the table that carries a claim, its sources, the strength of each, and the strongest counter-evidence, so a reader can weigh rather than trust. |
-| 004 | [primary-source-retrieval](skills/primary-source-retrieval) | Get to the original rather than the summary, and record what to do when the original is paywalled, withdrawn or in another language. |
-| 005 | [numeric-provenance](skills/numeric-provenance) | The rule for figures: primary source, retrieval date, data vintage. |
-| 006 | [adversarial-review](skills/adversarial-review) | Read your own research as a hostile referee would and write down what they would find, before they do. |
-| 007 | [research-brief](skills/research-brief) | The output format: what was asked, what was found, what remains unverified, and how confident each part is. |
-| 008 | [stale-claim-sweep](skills/stale-claim-sweep) | Re-check an existing document against current sources and report what has aged, since research decays quietly. |
+| Agent | What it does |
+| --- | --- |
+| [arastirmaci](agents/arastirmaci.md) | Runs sourced web research on a question. |
 
+These arrived already written and in daily use, rather than being built against the queue below — which is why most carry no item number. Some have Turkish bodies: they were written in the language they are used in, and translating them is a queue item rather than a blocker.
+
+Everything still under Queue in [BACKLOG.md](BACKLOG.md) does not exist
+yet. The daily loop builds one item a day.
 ## Licence
 
 MIT. See [LICENSE](LICENSE).
