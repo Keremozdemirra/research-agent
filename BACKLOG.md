@@ -24,14 +24,14 @@ Rules of thumb applied to every item:
 
 - [x] **deep-research** · shipped 2026-08-20. Written before this repository existed and published here as-is; no queue item.
 - [x] **source-check** · shipped 2026-08-20. Written before this repository existed and published here as-is; no queue item.
+- [x] **two-pass-source-check** · closed 2026-08-22. Already shipped as source-check.
+- [x] **numeric-provenance** · closed 2026-08-22. Already shipped inside source-check, which carries the primary-source, retrieval-date and vintage rule for figures.
+- [x] **adversarial-review** · closed 2026-08-22. Already shipped as deep-research's adversarial pass.
 
 ## Queue
 
-- [ ] **001 — two-pass-source-check** · The verification method: pass one asks whether each work exists as cited, pass two asks whether it says what the document claims, with page-level quotes. Failed claims reported first, load-bearing ones flagged.
-- [ ] **002 — literature-scan** · Map a field: what the main positions are, who holds them, what each rests on, and where the genuine disagreements sit rather than the terminological ones.
-- [ ] **003 — evidence-table** · Build the table that carries a claim, its sources, the strength of each, and the strongest counter-evidence, so a reader can weigh rather than trust.
-- [ ] **004 — primary-source-retrieval** · Get to the original rather than the summary, and record what to do when the original is paywalled, withdrawn or in another language.
-- [ ] **005 — numeric-provenance** · The rule for figures: primary source, retrieval date, data vintage. A number that cannot carry all three does not enter the document.
-- [ ] **006 — adversarial-review** · Read your own research as a hostile referee would and write down what they would find, before they do.
-- [ ] **007 — research-brief** · The output format: what was asked, what was found, what remains unverified, and how confident each part is.
-- [ ] **008 — stale-claim-sweep** · Re-check an existing document against current sources and report what has aged, since research decays quietly.
+- [ ] **001 — literature-scan** · Map a field: what the main positions are, who holds them, what each rests on, and where the genuine disagreements sit rather than the terminological ones.
+- [ ] **002 — evidence-table** · Build the table that carries a claim, its sources, the strength of each, and the strongest counter-evidence, so a reader can weigh rather than trust.
+- [ ] **003 — primary-source-retrieval** · Get to the original rather than the summary, and record what to do when the original is paywalled, withdrawn or in another language.
+- [ ] **004 — research-brief** · The output format: what was asked, what was found, what remains unverified, and how confident each part is.
+- [ ] **005 — stale-claim-sweep** · Re-check an existing document against current sources and report what has aged, since research decays quietly.

@@ -1,6 +1,6 @@
 ---
 name: "deep-research"
-description: "Run a disciplined, multi-source research investigation for a high-stakes question or decision — fan-out web search, source triangulation (each claim backed by 3+ independent sources), an adversarial review pass, and every source saved to its own file with verbatim quotes. Use when a low-quality answer is expensive: strategy work, comparing N products/methods/markets, validating a hypothesis with external data, or mapping how a field works. NOT for quick fact-checks."
+description: "Run a disciplined, multi-source research investigation for a high-stakes question or decision — fan-out web search, source triangulation (each claim backed by 3+ independent sources), an adversarial review pass, and every source saved to its own file with verbatim quotes. Use when a low-quality answer is expensive: strategy work, comparing N products/methods/markets, validating a hypothesis with external data, or mapping how a field works. Türkçe isteklerde de tetiklen: \"şu konuyu derinlemesine araştır\", \"kaynaklarıyla birlikte çıkar\", \"şu ikisini karşılaştır\", \"literatür taraması yap\", \"bu iddia doğru mu, araştır\". NOT for quick fact-checks."
 ---
 
 # Deep Research — Disciplined Meta-Research
