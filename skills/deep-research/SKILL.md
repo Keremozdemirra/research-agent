@@ -82,4 +82,4 @@ These are what separate a documented investigation from a confident guess:
 - **Don't pick the heaviest model for everything.** Match model to subtask: cheap for broad sweeps, strong for synthesis and the adversarial pass.
 
 ---
-*Source: github.com/alirezarezvani/claude-skills (MIT)*
+*Derived from github.com/alirezarezvani/claude-skills, MIT licence, Copyright (c) 2025 Alireza Rezvani. See THIRD-PARTY-NOTICES.md at the repository root.*
